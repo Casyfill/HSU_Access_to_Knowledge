@@ -6,6 +6,8 @@ The main goals of the course is to:
 -	gain hands-on experience with urban data and statistics
 -	gain understanding on how data is used in decision making and urban management 
 
+
+
 After successful completion of the course, the students will know and will be able to:
 
 -	efficiently search for information using both online and offline sources
