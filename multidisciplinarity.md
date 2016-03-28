@@ -1,0 +1,3 @@
+# 1.4  Multidisciplinarity
+
+The course will provide a general set of skills and knowledge to use in any field of research, with a focus on urban data and information, such as geospatial data, municipal finance, and administrative structure of Russian cities, land use laws and regulations, and etc. It does not require any prior knowledge nor skill set. On the other hand, it is designed to fulfill most of the fields or specialization from design to urban economics due to its multidisciplinary and hands-on approach. Knowledge and skills, aquired during the course, will help students in their study and practice, offering a base framework for the research, applicable in a wide range of cases from sociological and cultural studies to large scale quantitative analysis.
