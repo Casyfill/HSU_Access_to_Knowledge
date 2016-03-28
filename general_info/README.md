@@ -1,4 +1,4 @@
-# 1  GENERAL DESCRIBTION
+# 1  GENERAL DESCRIPTION
 
 Virtually all design today is research-based. From web-service design to a new public space layout, every contemporary project collects and analyses data, investigates contexts and tests design solutions with research. As a multidisciplinary holistic practice Urban Design crosses Urban studies, Architectural Design, Urban planning, and a few other disciplines. Therefore, Urban design requires the research-based approach perhaps even more than any other discipline.
 Type of the research, however, can vary from case to case, depending on the specific task, context, timeframe and objectives of the Project. How to choose the right methodology for a particular research? How to identify relevant experts and reliable sources effectively, even in the unfamiliar environment? How to access, obtain, structure, assess and store information in the most convenient and quick way? How to think critically and make conceptual conclusions based on proper data analysis?
