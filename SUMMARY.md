@@ -9,7 +9,7 @@
     * [Connection to other courses](general_info/connections.md)
 * [Structure and thematic composition](structure/README.md)
 	* [Originality](structure/originality.md)
-	* [Structure](structure/structure_composition.md)
+	* [Structure](structure/structure.md)
 	* [Themes per week](structure/themes_week.md)
 * [Course Content](course_content/README.md)
 	* [Research-based design](course_content/research_b_design.md)
