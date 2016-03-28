@@ -1,4 +1,4 @@
 # Summary
 
-* Grades
+* [Grades](grades.md)
 
