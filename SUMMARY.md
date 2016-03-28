@@ -2,5 +2,5 @@
 
 * g
    * 4_grading
-* [General_describtion](generaldescribtion.md)
+* [1_General_describtion](generaldescribtion.md)
 
