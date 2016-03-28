@@ -1,4 +1,3 @@
 # Summary
 
-* General_Describtion
 
