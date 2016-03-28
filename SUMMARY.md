@@ -1,5 +1,3 @@
 # Summary
 
-* Grading
-   * Grading
 
